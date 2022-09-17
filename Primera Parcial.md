@@ -6,3 +6,8 @@ Datos de entrada: ninguno\
 Datos de salida: "Helios"
 ### DFD
 ![1_DFD](https://user-images.githubusercontent.com/113320901/190879911-ee710743-ffdb-4c81-8faa-babe677abc52.png)
+### PRUEBA DE ESCRITORIO
+| Color | Código |
+| ----------- | ----------- |
+| Rojo | #FF0000 |
+| Azul | #0000FF |
