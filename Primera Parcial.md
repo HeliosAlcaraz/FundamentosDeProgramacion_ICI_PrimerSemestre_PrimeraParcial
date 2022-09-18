@@ -118,7 +118,7 @@ Datos de salida: "Tienes", n
 ### ANÁLISIS
 Datos de entrada: an_actual, an_naci\
 Variables: an_actual, an_naci, edad\
-Datos de salida: "Tienes esta edad:", n3
+Datos de salida: "Tienes esta edad:", edad
 ### DFD
 ![10_DFD](https://user-images.githubusercontent.com/113320901/190881906-b12a9b3d-b4c1-488b-89c4-fecc310c70d3.png)
 ### PRUEBA DE ESCRITORIO
