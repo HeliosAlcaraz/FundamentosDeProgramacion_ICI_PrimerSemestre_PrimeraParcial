@@ -92,10 +92,10 @@ Datos de salida: n*n
 ### ANÁLISIS
 Datos de entrada: n\
 Variables: n, n1\
-Datos de salida: n1
+Datos de salida: n1 (el cuadrado del número capturado por el usuario
 ### DFD
 ![8_DFD](https://user-images.githubusercontent.com/113320901/190881383-bb9a2956-aeb4-4110-b9e7-7b2df35ae83a.png)
 ### PRUEBA DE ESCRITORIO
 | Salida de Datos|
 | ----------- |
-| n1 |
+| n1 (el cuadrado del número capturado por el usuario |
