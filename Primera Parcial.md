@@ -104,7 +104,7 @@ Datos de salida: n1 (el cuadrado del número capturado por el usuario
 | ----------- | ----------- |----------- |
 | 1 | 2 | 4=2*2|
 | 2 | 3 | 9=3*3 |
-| 2 | 4 | 16=4*4 |
+| 3 | 4 | 16=4*4 |
 
 
 ## Ejercicio 9.- Escribir un DFD que pregunte al usuario su año de nacimiento para calcular su edad.
@@ -123,7 +123,7 @@ Datos de salida: "Tienes", n
 | ----------- | ----------- |----------- |
 | 1 | 1997 | 2022-1997=25|
 | 2 | 2007 | 2022-2007=15 |
-| 2 | 2007 | 2022-2017=05 |
+| 3 | 2007 | 2022-2017=05 |
 
 ## Ejercicio 10.- Escribir un DFD que pregunte al usuario el año actual y su año de nacimiento para calcular su edad.
 ### ANÁLISIS
@@ -141,7 +141,7 @@ Datos de salida: "Tienes esta edad:", edad
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | 2022 | 2000 | 22=2022-2000 |
 | 2 | 2022 | 2010 | 12=2022-2010 |
-| 2 | 2022 | 2020 | 2=2022-2020 |
+| 3 | 2022 | 2020 | 2=2022-2020 |
 
 
 ## Ejercicio 11.- Escribir un DFD que obtenga el cuadrado de la suma de dos números enteros.
@@ -156,7 +156,7 @@ Datos de salida: n3
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | 1 | 1 | 4=(1+1)^2 |
 | 2 | 2 | 3 | 25=(3+2)^2 |
-| 2 | 6 | 4 | 100=(4+6)^2 |
+| 3 | 6 | 4 | 100=(4+6)^2 |
 
 
 ## Ejercicio 12.- Hacer un DFD que calcule la edad con el año de nacimiento. Que no admita el
@@ -172,4 +172,6 @@ Datos de salida: "Tienes ", edad, " años"
 | ----------- | ----------- | ----------- | ----------- |
 | 1 |  |  |  |
 | 2 |  |  |  |
-| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
