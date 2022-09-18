@@ -299,7 +299,7 @@ Datos de salida: "El número es mayor de diez y se pasó por ", numero2 ó "El n
 ### ANÁLISIS
 Datos de entrada: num\
 Variables: num, cont1, cont2\
-Datos de salida: "Números positivos: ", cont1, ". Números negativos: ", cont2
+Datos de salida: "Números positivos: ", cont1, ". Números negativos: ", cont2\
 Además, cada vez que se capture un número imprimirá si es positivo o negativo. Después continuará con la captura de más números hasta que se ponga un cero.
 ### DFD
 ![19_DFD](https://user-images.githubusercontent.com/113320901/190926957-138c7112-f05e-4eb8-bdf1-c9e1e54b14dc.png)
@@ -307,3 +307,11 @@ Además, cada vez que se capture un número imprimirá si es positivo o negativo
 | Salida de Datos  |
 | ----------- |
 | Números positivos: *cont1*. Números negativos: *cont2* |
+
+| Número de caso | num |  |  |  | | |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | 1 |  |  |  |  | |
+| 2 | 3 |  |  |  |  |  |
+| 3 | 7 |  |  |  |  |  |
+| 4 | -9 |  |  |  |   |  |
+| 5 | -11 |  |  |  |  |  |
