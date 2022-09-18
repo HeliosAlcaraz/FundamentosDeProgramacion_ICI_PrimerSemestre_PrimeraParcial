@@ -283,4 +283,13 @@ Datos de salida: "El número es mayor de diez y se pasó por ", numero2 ó "El n
 ### PRUEBA DE ESCRITORIO
 | Salida de Datos 1 | Salida de Datos 2 |
 | ----------- | ----------- |
-| El número es mayor de diez y se pasó por *numero2* | El número es menor de diez y falta *numero3* para llegar a diez
+| El número es mayor de diez y se pasó por *numero2* | El número es menor de diez y falta *numero3* para llegar a diez |
+
+
+| Número de caso | numero | numero>10 | numero2=numero-10 | numero3=10-numero |Núm<10 y falta numero3... | Núm>10 y se pasó por numero2...|
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | 1 | 1>10 | - | numero3=10-1; numero3=9 | 1<10 y falta 9 para llegar a diez | - |
+| 2 | 5 | 5>10 | - | numero3=10-5; numero3=5 | 5<10 y falta 5 para llegar a diez | - |
+| 3 | 8 | 8>10 | - | numero3=10-8; numero3=2 | 8<10 y falta 2 para llegar a diez | - |
+| 4 | 12 | 12>10 | numero2=12-10; numero2=2 | - |  - | 12>10 y se pasó por 2 |
+| 5 | 19 | 19>10 | numero2=19-10; numero2=9 | - |   - | 19>10 y se pasó por 9 |
