@@ -86,3 +86,16 @@ Datos de salida: n*n
 | Salida de Datos|
 | ----------- |
 | 25 |
+
+
+## Ejercicio 8.- Escribir un DFD que pregunte al usuario el valor de *n* y obtenga su cuadrado.
+### ANÁLISIS
+Datos de entrada: n\
+Variables: n, n1\
+Datos de salida: n1
+### DFD
+![8_DFD](https://user-images.githubusercontent.com/113320901/190881383-bb9a2956-aeb4-4110-b9e7-7b2df35ae83a.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| n1 |
