@@ -293,3 +293,12 @@ Datos de salida: "El número es mayor de diez y se pasó por ", numero2 ó "El n
 | 3 | 8 | 8>10 | - | numero3=10-8; numero3=2 | 8<10 y falta 2 para llegar a diez | - |
 | 4 | 12 | 12>10 | numero2=12-10; numero2=2 | - |  - | 12>10 y se pasó por 2 |
 | 5 | 19 | 19>10 | numero2=19-10; numero2=9 | - |   - | 19>10 y se pasó por 9 |
+
+
+## Ejercicio 19.- Hacer un DFD que capture *n* números; que al final indique cuántos son positivos y cuántos son negativos. Que termine si se captura un cero.
+### ANÁLISIS
+Datos de entrada: numero\
+Variables: numero, contador1, contador2\
+Datos de salida: 
+### DFD
+![19_DFD](https://user-images.githubusercontent.com/113320901/190926957-138c7112-f05e-4eb8-bdf1-c9e1e54b14dc.png)
