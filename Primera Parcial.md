@@ -297,8 +297,8 @@ Datos de salida: "El número es mayor de diez y se pasó por ", numero2 ó "El n
 
 ## Ejercicio 19.- Hacer un DFD que capture *n* números; que al final indique cuántos son positivos y cuántos son negativos. Que termine si se captura un cero.
 ### ANÁLISIS
-Datos de entrada: numero\
-Variables: numero, contador1, contador2\
+Datos de entrada: num\
+Variables: num, cont1, cont2\
 Datos de salida: 
 ### DFD
 ![19_DFD](https://user-images.githubusercontent.com/113320901/190926957-138c7112-f05e-4eb8-bdf1-c9e1e54b14dc.png)
