@@ -99,3 +99,10 @@ Datos de salida: n1 (el cuadrado del número capturado por el usuario
 | Salida de Datos|
 | ----------- |
 | n1 (el cuadrado del número capturado por el usuario |
+
+
+## Ejercicio 9.- Escribir un DFD que pregunte al usuario su año de nacimiento para calcular su edad.
+### ANÁLISIS
+Datos de entrada: n\
+Variables: n\
+Datos de salida:
