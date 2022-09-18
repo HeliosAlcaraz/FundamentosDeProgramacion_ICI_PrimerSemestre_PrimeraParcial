@@ -308,10 +308,11 @@ Además, cada vez que se capture un número imprimirá si es positivo o negativo
 | ----------- |
 | Números positivos: *cont1*. Números negativos: *cont2* |
 
-| Número de caso | num |  |  |  | | |
+| Número de caso | num | num!=0  |  |  | | |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 1 |  |  |  |  | |
-| 2 | 3 |  |  |  |  |  |
-| 3 | 7 |  |  |  |  |  |
-| 4 | -9 |  |  |  |   |  |
-| 5 | -11 |  |  |  |  |  |
+| 1 | 1 | sí |  |  |  | |
+| 2 | 3 | sí |  |  |  |  |
+| 3 | 7 | sí |  |  |  |  |
+| 4 | -9 | sí |  |  |   |  |
+| 5 | -11 | sí |  |  |  |  |
+| 6 | 0 | no |  |  |  |  |
