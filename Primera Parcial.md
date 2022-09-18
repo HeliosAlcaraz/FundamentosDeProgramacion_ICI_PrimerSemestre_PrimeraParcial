@@ -182,7 +182,7 @@ Datos de entrada: ninguno\
 Variables: contador\
 Datos de salida: contador
 ### DFD
-![13_DFD](https://user-images.githubusercontent.com/113320901/190919055-c0dc2289-0087-46fb-9f2b-babf4404c65b.png)
+![13_DFD](https://user-images.githubusercontent.com/113320901/190929748-95d828d2-4893-4072-9c75-782212bb86e3.png)
 ### PRUEBA DE ESCRITORIO
 | Número de caso | contador | contador<=10 | contador++ |
 | ----------- | ----------- | ----------- | ----------- |
