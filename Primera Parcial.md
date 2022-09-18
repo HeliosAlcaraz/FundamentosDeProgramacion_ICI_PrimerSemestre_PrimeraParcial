@@ -254,3 +254,13 @@ Datos de salida: "Es impar" ó "Es par"
 | 4 | 4 | 4>0 | 4%2==0 | no | sí |
 | 5 | 5 | 5>0 | 5%2==0 | sí | no | 
 | 6 | 0 | 0>0 | - | - | - |
+
+
+## Ejercicio 17.- Escribir un DFD que indique si un número leído del teclado es mayor a 10.
+### ANÁLISIS
+Datos de entrada: num\
+Variables: num\
+Datos de salida: "El número es mayor de diez" ó "El número es menor de diez"
+### DFD
+![17_DFD](https://user-images.githubusercontent.com/113320901/190924758-73ca0d25-c22c-4857-baf2-e69f21184212.png)
+### PRUEBA DE ESCRITORIO
