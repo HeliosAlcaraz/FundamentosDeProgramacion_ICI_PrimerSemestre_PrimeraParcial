@@ -39,3 +39,19 @@ Datos de salida: nom
 
 ## Ejercicio 4.- Escribir un algoritmo que escriba "Hola <nombre>".
 ### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: nom
+Datos de salida: "Hola", nom
+### DFD
+![4_DFD](https://user-images.githubusercontent.com/113320901/190880334-f1b03449-5166-4da9-ac47-3259f9ccf5ad.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| Hola Helios |
+  
+  
+## Ejercicio 5.- Escribir un algoritmo donde se le pregunte al usuario su nombre y decirle "Buen día <nombre>".
+### ANÁLISIS
+Datos de entrada: nom\
+Variables: nom
+Datos de salida:
