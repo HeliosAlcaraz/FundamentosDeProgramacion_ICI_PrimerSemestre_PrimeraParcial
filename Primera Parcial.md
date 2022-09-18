@@ -264,3 +264,10 @@ Datos de salida: "El número es mayor de diez" ó "El número es menor de diez"
 ### DFD
 ![17_DFD](https://user-images.githubusercontent.com/113320901/190924758-73ca0d25-c22c-4857-baf2-e69f21184212.png)
 ### PRUEBA DE ESCRITORIO
+| Número de caso | num | num>10 | El número es mayor de diez | El número es menor de diez |
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| 1 | 1 | 1>10 | no | sí | 
+| 2 | 5 | 5>10 | no | sí |
+| 3 | 8 | 8>10 | no | sí | 
+| 4 | 12 | 12>10 | sí | no | 
+| 5 | 19 | 19>10 | sí | no |  
