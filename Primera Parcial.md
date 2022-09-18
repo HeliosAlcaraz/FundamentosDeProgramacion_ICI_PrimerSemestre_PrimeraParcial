@@ -22,3 +22,20 @@ Datos de salida: "Lunes 8 de agosto"
 | Salida de Datos|
 | ----------- |
 | Lunes 8 de agosto |
+
+
+## Ejercicio 3.- Escribir un algoritmo que escriba tu nombre usando una variable.
+### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: nom\
+Datos de salida: nom
+### DFD
+![3_DFD](https://user-images.githubusercontent.com/113320901/190880248-1a5b3def-1eff-4f84-ac5d-87a8019e5077.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| Helios |
+
+
+## Ejercicio 4.- Escribir un algoritmo que escriba "Hola <nombre>".
+### ANÁLISIS
