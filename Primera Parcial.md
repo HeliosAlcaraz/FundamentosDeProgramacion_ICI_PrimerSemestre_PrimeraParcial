@@ -236,3 +236,11 @@ Datos de salida: contador*2
 | 3 | 3 | 3*2 | 3<5 | 4 | 
 | 4 | 4 | 4*2 | 4<5 | 5 | 
 | 5 | 5 | 5*2 | 5<5 | - |  
+
+
+## Ejercicio 16.- Escribir un DFD que diga si un número entero positivo capturado es par o impar.
+### ANÁLISIS
+Datos de entrada: num\
+Variables: num\
+Datos de salida: "Es impar" ó "Es par"
+### DFD
