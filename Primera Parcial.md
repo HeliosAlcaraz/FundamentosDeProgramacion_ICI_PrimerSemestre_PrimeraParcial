@@ -146,6 +146,14 @@ Datos de salida: "Tienes esta edad:", edad
 
 ## Ejercicio 11.- Escribir un DFD que obtenga el cuadrado de la suma de dos números enteros.
 ### ANÁLISIS
-Datos de entrada: \
-Variables: \
-Datos de salida: 
+Datos de entrada: n1, n2\
+Variables: n1, n2, n3\
+Datos de salida: n3
+### DFD
+![11_DFD](https://user-images.githubusercontent.com/113320901/190917330-5d3043f4-6256-427d-8245-6b3990c3b594.png)
+### PRUEBA DE ESCRITORIO
+| Número de caso | n1 | n2 | n3=(n2+n1)^2 |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | 1 | 1 | 4=(1+1)^2 |
+| 2 | 2 | 3 | 25=(3+2)^2 |
+| 2 | 6 | 4 | 100=(4+6)^2 |
