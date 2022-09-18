@@ -157,3 +157,19 @@ Datos de salida: n3
 | 1 | 1 | 1 | 4=(1+1)^2 |
 | 2 | 2 | 3 | 25=(3+2)^2 |
 | 2 | 6 | 4 | 100=(4+6)^2 |
+
+
+## Ejercicio 12.- Hacer un DFD que calcule la edad con el año de nacimiento. Que no admita el
+## número cero ni que el año actual sea mayor a 2022.
+### ANÁLISIS
+Datos de entrada: ano_actual, nacimiento\
+Variables: ano_actual, nacimiento, edad\
+Datos de salida: "Tienes ", edad, " años"
+### DFD
+![12_DFD](https://user-images.githubusercontent.com/113320901/190917835-e3c12805-53e5-4e71-be0f-28096600013c.png)
+### PRUEBA DE ESCRITORIO
+| Número de caso | ano_actual | nacimiento | edad=ano_actual-nacimiento |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 2 |  |  |  |
