@@ -172,5 +172,9 @@ Datos de salida: "Tienes ", edad, " años"
 | 1 | 0 | - | - |
 | 2 | 2022 | 2023 | - |
 | 3 | 2022 | 1946 | 76=2022-1946 |
-| 4 |  |  |  |
-| 5 |  |  |  |
+| 4 | 2022 | 1992 | 30=2022-1992  |
+| 5 | 2018 | 1992 | 26=2018-1992 |
+
+
+## Ejercicio 13.- Escribir un DFD que imprima del número 1 al 10.
+### ANÁLISIS
