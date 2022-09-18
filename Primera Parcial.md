@@ -105,4 +105,15 @@ Datos de salida: n1 (el cuadrado del número capturado por el usuario
 ### ANÁLISIS
 Datos de entrada: n\
 Variables: n\
-Datos de salida:
+Datos de salida: "Tienes", n
+### DFD
+![9_DFD](https://user-images.githubusercontent.com/113320901/190881705-59b259bd-3be2-4634-ae37-0252a0365815.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| Tienes *n*(edad sacada del dato capturado por el usuario)
+
+
+## Ejercicio 10.- Escribir un DFD que pregunte al usuario el año actual y su año de nacimiento para calcular su edad.
+### ANÁLISIS
+Datos de entrada:
