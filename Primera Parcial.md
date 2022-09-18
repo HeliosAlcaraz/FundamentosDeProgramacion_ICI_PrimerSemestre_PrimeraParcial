@@ -111,7 +111,7 @@ Datos de salida: "Tienes", n
 ### PRUEBA DE ESCRITORIO
 | Salida de Datos|
 | ----------- |
-| Tienes *n* (edad sacada del dato capturado por el usuario)
+| Tienes *n* (edad sacada del dato capturado por el usuario y una operación matemática)|
 
 
 ## Ejercicio 10.- Escribir un DFD que pregunte al usuario el año actual y su año de nacimiento para calcular su edad.
@@ -125,3 +125,7 @@ Datos de salida: "Tienes esta edad:", n3
 | Salida de Datos|
 | ----------- |
 | Tienes esta edad:*n3*  |
+
+
+## Ejercicio 11.- Escribir un DFD que obtenga el cuadrado de la suma de dos números enteros.
+### ANÁLISIS
