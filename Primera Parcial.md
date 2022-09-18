@@ -111,7 +111,7 @@ Datos de salida: "Tienes", n
 ### PRUEBA DE ESCRITORIO
 | Salida de Datos|
 | ----------- |
-| Tienes *n*(edad sacada del dato capturado por el usuario)
+| Tienes *n* (edad sacada del dato capturado por el usuario)
 
 
 ## Ejercicio 10.- Escribir un DFD que pregunte al usuario el año actual y su año de nacimiento para calcular su edad.
