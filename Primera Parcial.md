@@ -116,4 +116,12 @@ Datos de salida: "Tienes", n
 
 ## Ejercicio 10.- Escribir un DFD que pregunte al usuario el año actual y su año de nacimiento para calcular su edad.
 ### ANÁLISIS
-Datos de entrada:
+Datos de entrada: n1, n2\
+Variables: n1, n2, n3\
+Datos de salida: "Tienes esta edad:", n3
+### DFD
+![10_DFD](https://user-images.githubusercontent.com/113320901/190881906-b12a9b3d-b4c1-488b-89c4-fecc310c70d3.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| Tienes esta edad:*n3*  |
