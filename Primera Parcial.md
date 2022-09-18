@@ -10,3 +10,15 @@ Datos de salida: "Helios"
 | Salida de Datos|
 | ----------- |
 | Helios |
+
+
+## Ejercicio 2.- Escribir un algoritmo que escriba la fecha.
+### ANÁLISIS
+Datos de entrada: ninguno\
+Datos de salida: "Lunes 8 de agosto"
+### DFD
+![2_DFD](https://user-images.githubusercontent.com/113320901/190880050-96009799-c18b-45d6-816f-f9f8cf764f61.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| Lunes 8 de agosto |
