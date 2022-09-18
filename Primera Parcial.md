@@ -201,8 +201,8 @@ Datos de salida: contador
 ## Ejercicio 14.- Escribir un DFD que obtenga la suma de los números naturales entre 1 y 10.
 ### ANÁLISIS
 Datos de entrada: ninguno\
-Variables: contador, sum\
-Datos de salida: sum
+Variables: contador, suma\
+Datos de salida: suma
 ### DFD
 ![14_DFD](https://user-images.githubusercontent.com/113320901/190919836-271e0d05-36d2-41a1-b423-f3378fe7d7f5.png)
 ### PRUEBA DE ESCRITORIO
