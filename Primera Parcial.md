@@ -184,15 +184,25 @@ Datos de salida: contador
 ### DFD
 ![13_DFD](https://user-images.githubusercontent.com/113320901/190919055-c0dc2289-0087-46fb-9f2b-babf4404c65b.png)
 ### PRUEBA DE ESCRITORIO
-| Salida de Datos|
-| ----------- |
-| <center>1</center> |
-| 2 |
-| 3 |
-| 4 |
-| 5 |
-| 6 |
-| 7 |
-| 8 |
-| 9 |
-| 10 |
+| Número de caso | contador | contador<=10 | contador++ |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | 1 | 1<=10 | 2 |
+| 2 | 2 | 2<=10 | 3 |
+| 3 | 3 | 3<=10 | 4 |
+| 4 | 4 | 4<=10 | 5 |
+| 5 | 5 | 5<=10 | 6 |
+| 6 | 6 | 6<=10 | 7 |
+| 7 | 7 | 7<=10 | 8 |
+| 8 | 8 | 8<=10 | 9 |
+| 9 | 9 | 9<=10 | 10 |
+| 10 | 10 | 10<=10 | 11 |
+| 11 | 11 | 11<=10 | - |
+
+## Ejercicio 14.- Escribir un DFD que obtenga la suma de los números naturales entre 1 y 10.
+### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: contador, sum\
+Datos de salida: sum
+### DFD
+![14_DFD](https://user-images.githubusercontent.com/113320901/190919836-271e0d05-36d2-41a1-b423-f3378fe7d7f5.png)
+### PRUEBA DE ESCRITORIO
