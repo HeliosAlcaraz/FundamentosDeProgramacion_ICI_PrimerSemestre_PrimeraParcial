@@ -37,7 +37,7 @@ Datos de salida: nom
 | Helios |
 
 
-## Ejercicio 4.- Escribir un algoritmo que escriba "Hola <<nombre>>".
+## Ejercicio 4.- Escribir un algoritmo que escriba "Hola *nombre*".
 ### ANÁLISIS
 Datos de entrada: ninguno\
 Variables: nom\
@@ -50,7 +50,7 @@ Datos de salida: "Hola", nom
 | Hola Helios |
   
   
-## Ejercicio 5.- Escribir un algoritmo donde se le pregunte al usuario su nombre y decirle "Buen día <<nombre>>".
+## Ejercicio 5.- Escribir un algoritmo donde se le pregunte al usuario su nombre y decirle "Buen día *nombre*".
 ### ANÁLISIS
 Datos de entrada: nom\
 Variables: nom\
@@ -60,5 +60,8 @@ Datos de salida: "Buen día", nom
 ### PRUEBA DE ESCRITORIO
 | Salida de Datos|
 | ----------- |
-| Buen día <<nom>> |
+| Buen día *nom* |
  
+
+## Ejercicio 6.- Escribir un DFD que calcule el cuadrado de 2.
+### ANÁLISIS
