@@ -178,3 +178,21 @@ Datos de salida: "Tienes ", edad, " años"
 
 ## Ejercicio 13.- Escribir un DFD que imprima del número 1 al 10.
 ### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: contador\
+Datos de salida: contador
+### DFD
+![13_DFD](https://user-images.githubusercontent.com/113320901/190919055-c0dc2289-0087-46fb-9f2b-babf4404c65b.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 |
