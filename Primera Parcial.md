@@ -159,8 +159,7 @@ Datos de salida: n3
 | 3 | 6 | 4 | 100=(4+6)^2 |
 
 
-## Ejercicio 12.- Hacer un DFD que calcule la edad con el año de nacimiento. Que no admita el
-## número cero ni que el año actual sea mayor a 2022.
+## Ejercicio 12.- Hacer un DFD que calcule la edad con el año de nacimiento. Que no admita el número cero ni que el año actual sea mayor a 2022.
 ### ANÁLISIS
 Datos de entrada: ano_actual, nacimiento\
 Variables: ano_actual, nacimiento, edad\
