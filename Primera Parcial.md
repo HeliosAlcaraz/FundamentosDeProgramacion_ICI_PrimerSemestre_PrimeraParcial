@@ -53,5 +53,12 @@ Datos de salida: "Hola", nom
 ## Ejercicio 5.- Escribir un algoritmo donde se le pregunte al usuario su nombre y decirle "Buen día <nombre>".
 ### ANÁLISIS
 Datos de entrada: nom\
-Variables: nom
-Datos de salida:
+Variables: nom\
+Datos de salida: "Buen día", nom
+### DFD
+![5_DFD](https://user-images.githubusercontent.com/113320901/190880423-5e0bc63a-1b86-4175-a8ea-c0b294708437.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| Buen día <nom> |
+ 
