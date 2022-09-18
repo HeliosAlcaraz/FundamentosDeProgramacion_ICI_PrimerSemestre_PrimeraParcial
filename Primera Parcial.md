@@ -207,7 +207,7 @@ Datos de salida: suma
 ![14_DFD](https://user-images.githubusercontent.com/113320901/190919836-271e0d05-36d2-41a1-b423-f3378fe7d7f5.png)
 ### PRUEBA DE ESCRITORIO
 | Número de caso | contador | suma | suma=suma+contador | contador<=10 | contador=contador+1 |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 1 | 0 | 1=0+1 | 1<=10 | 2 |
 | 2 | 2 | 1 | 3=1+2 | 2<=10 | 3 |
 | 3 | 3 | 3 | 6=3+3 | 3<=10 | 4 |
