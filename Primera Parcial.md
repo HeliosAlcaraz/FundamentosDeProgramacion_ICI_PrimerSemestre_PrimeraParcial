@@ -113,6 +113,11 @@ Datos de salida: "Tienes", n
 | ----------- |
 | Tienes *n* (edad sacada del dato capturado por el usuario y una operación matemática)|
 
+| Número de caso | n | 2022-n |
+| ----------- | ----------- |----------- |
+| 1 | 1997 | 2022-1997=25|
+| 2 | 2007 | 2022-2007=15 |
+| 2 | 2007 | 2022-2017=05 |
 
 ## Ejercicio 10.- Escribir un DFD que pregunte al usuario el año actual y su año de nacimiento para calcular su edad.
 ### ANÁLISIS
