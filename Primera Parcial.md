@@ -275,9 +275,12 @@ Datos de salida: "El número es mayor de diez" ó "El número es menor de diez"
 
 ## Ejercicio 18.- Modificación del DFD anterior para que indique cuánto falta para llegar a diez.
 ### ANÁLISIS
-Datos de entrada: num\
-Variables: num, num2, num3\
-Datos de salida: "El número es mayor de diez y se pasó por ", num2 ó "El número es menor de diez y falta ", num3, " para llegar a diez"
+Datos de entrada: numero\
+Variables: numero, numero2, numero3\
+Datos de salida: "El número es mayor de diez y se pasó por ", numero2 ó "El número es menor de diez y falta ", numero3, " para llegar a diez"
 ### DFD
 ![18_DFD](https://user-images.githubusercontent.com/113320901/190926038-b61ee874-e5c2-4ed5-864e-b9571f320f6a.png)
 ### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- | ----------- |
+| El número es mayor de diez y se pasó por *numero2* | El número es menor de diez y falta *numero3* para llegar a diez
