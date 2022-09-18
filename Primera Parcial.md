@@ -78,5 +78,11 @@ Datos de salida: 2*2
 ## Ejercicio 7.- Escribir un DFD que calcule el cuadrado de *n*, para *n=5*.
 ### ANÁLISIS
 Datos de entrada: ninguno\
-Variables: n
-Datos de salida:
+Variables: n\
+Datos de salida: n*n
+###DFD
+![7_DFD](https://user-images.githubusercontent.com/113320901/190881132-8895d18b-17f6-4d1d-b7d9-7c72eea98637.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| 25 |
