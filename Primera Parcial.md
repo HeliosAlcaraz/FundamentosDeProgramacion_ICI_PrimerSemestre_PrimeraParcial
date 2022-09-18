@@ -65,3 +65,18 @@ Datos de salida: "Buen día", nom
 
 ## Ejercicio 6.- Escribir un DFD que calcule el cuadrado de 2.
 ### ANÁLISIS
+Datos de entrada: ninguno\
+Datos de salida: 2*2
+### DFD
+![6_DFD](https://user-images.githubusercontent.com/113320901/190881056-0b30616d-023a-4dfb-8bca-2aba18496c8b.png)
+### PRUEBA DE ESCRITORIO
+| Salida de Datos|
+| ----------- |
+| 4 |
+
+
+## Ejercicio 7.- Escribir un DFD que calcule el cuadrado de *n*, para *n=5*.
+### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: n
+Datos de salida:
