@@ -100,6 +100,12 @@ Datos de salida: n1 (el cuadrado del número capturado por el usuario
 | ----------- |
 | n1 (el cuadrado del número capturado por el usuario |
 
+| Número de caso | n | n1=n*n |
+| ----------- | ----------- |----------- |
+| 1 | 2 | 2*2=4|
+| 2 | 3 | 3*3=9 |
+| 2 | 4 | 4*4=16 |
+
 
 ## Ejercicio 9.- Escribir un DFD que pregunte al usuario su año de nacimiento para calcular su edad.
 ### ANÁLISIS
