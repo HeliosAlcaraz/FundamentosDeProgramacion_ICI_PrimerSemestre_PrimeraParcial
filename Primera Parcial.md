@@ -281,6 +281,6 @@ Datos de salida: "El número es mayor de diez y se pasó por ", numero2 ó "El n
 ### DFD
 ![18_DFD](https://user-images.githubusercontent.com/113320901/190926038-b61ee874-e5c2-4ed5-864e-b9571f320f6a.png)
 ### PRUEBA DE ESCRITORIO
-| Salida de Datos|
+| Salida de Datos 1 | Salida de Datos 2 |
 | ----------- | ----------- |
 | El número es mayor de diez y se pasó por *numero2* | El número es menor de diez y falta *numero3* para llegar a diez
