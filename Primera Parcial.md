@@ -137,6 +137,15 @@ Datos de salida: "Tienes esta edad:", edad
 | ----------- |
 | Tienes esta edad:*edad*  |
 
+| Número de caso | an_actual | an_naci | edad=an_actual-an_naci |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | 2022 | 2000 | 22=2022-2000 |
+| 2 | 2022 | 2010 | 12=2022-2010 |
+| 2 | 2022 | 2020 | 2=2022-2020 |
+
 
 ## Ejercicio 11.- Escribir un DFD que obtenga el cuadrado de la suma de dos números enteros.
 ### ANÁLISIS
+Datos de entrada: \
+Variables: \
+Datos de salida: 
