@@ -186,7 +186,7 @@ Datos de salida: contador
 ### PRUEBA DE ESCRITORIO
 | Salida de Datos|
 | ----------- |
-| 1 |
+| <center>1</center> |
 | 2 |
 | 3 |
 | 4 |
